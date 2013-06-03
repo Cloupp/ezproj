@@ -3,6 +3,9 @@
 	"version"      : "0.1.1",
 	"author"       : "Cloupp <hello@cloupp.com>",
 	"main"         : "./lib/ezproj.coffee",
+	"bin"          : {
+		"ezproj" : "./bin/ezproj"
+	},
 	"dependencies" : {
 		"coffee-script" : "1.6.x",
 		"commander"     : "1.1.x",
