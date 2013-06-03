@@ -1,8 +1,8 @@
 {
 	"name"         : "ezproj",
-	"version"      : "0.1.0",
+	"version"      : "0.1.1",
 	"author"       : "Cloupp <hello@cloupp.com>",
-	"main"         : "ezproj.coffee",
+	"main"         : "./lib/ezproj.coffee",
 	"dependencies" : {
 		"coffee-script" : "1.6.x",
 		"commander"     : "1.1.x",
