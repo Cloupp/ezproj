@@ -4,4 +4,4 @@ path = require 'path'
 fs   = require 'fs'
 lib  = path.join(path.dirname(fs.realpathSync(__filename)), '../')
 
-require "#{lib}/"
+require "#{lib}/index.coffee"
