@@ -1,0 +1,16 @@
+{
+	"name"         : "ezproj",
+	"version"      : "0.1.0",
+	"author"       : "Cloupp <hello@cloupp.com>",
+	"main"         : "ezproj.coffee",
+	"dependencies" : {
+		"coffee-script" : "1.6.x",
+		"commander"     : "1.1.x",
+		"glob"          : "3.2.x",
+		"async"         : "0.2.x"
+	},
+	"engines": {
+		"node" : "0.10.x",
+		"npm"  : "1.2.x"
+	}
+}

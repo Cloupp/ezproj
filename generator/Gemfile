@@ -1,0 +1,4 @@
+source :rubygems
+
+gem 'xcodeproj', '0.6.0'
+gem 'json',      '1.7.6'
